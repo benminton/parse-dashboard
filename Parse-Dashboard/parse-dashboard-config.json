@@ -1,0 +1,16 @@
+{
+  "apps": [{
+    "serverURL": "https://easysuccess-parse.herokuapp.com/parse",
+    "appId": "lxX0LV69TTYERyUcn1i7",
+    "masterKey": "DxgATtpkZV2qdqxMeJ1g",
+    "appName": "easysuccess-parse-dashboard",
+    "iconName": ""
+  }],
+  "users": [
+	{
+		"user": "ben",
+		"pass": "pwd123456"
+	}
+  ],
+  "iconsFolder": "icons"
+}
