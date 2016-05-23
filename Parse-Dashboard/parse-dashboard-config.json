@@ -10,7 +10,11 @@
 	{
 		"user": "ben",
 		"pass": "pwd123456"
-	}
+	},
+	{
+		"user": "admin",
+		"pass": "pwd123456"
+	
   ],
   "iconsFolder": "icons"
 }
